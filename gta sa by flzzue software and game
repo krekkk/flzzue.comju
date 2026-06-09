@@ -1,0 +1,32 @@
+<button onclick="window.location.href='https://drive.google.com/drive/folders/10RY-6F5Nm87wNYnbrJ48jfIuaBcQuGqJ'">
+    via ggl drive
+</button>
+<button onclick="window.location.href='https://youtube.com'">
+    via steam pay/bayar
+</button>
+<h1 style="
+font-size:50px; /* UBAH UKURAN */
+font-family:Arial; /* UBAH FONT */
+color:blue; /* UBAH WARNA */
+text-align:center;
+text-shadow:0 0 10px cyan, 0 0 20px cyan, 0 0 50px cyan; /* UBAH WARNA GLOW */
+letter-spacing:5px; /* UBAH JARAK HURUF */
+">
+FLZZUE SOFTWARE AND GAME <!-- UBAH TULISAN INI -->
+</h1>
+<h1 style="
+color:green; /* UBAH WARNA TEKS */
+text-shadow:0 0 10px cyan; /* UBAH WARNA GLOW */
+">
+TUTORIAL INSTAL
+1 EKSTRAK FILE GTA SAN ANDREAS BEBAS DI MANA
+2 BUKA FOLDER GTA SAN ANDREAS
+3 JALANKAN gta_sa.exe <!-- UBAH TULISAN INI -->
+</h1>
+
+<h1 style="
+color:green; /* UBAH WARNA TEKS */
+text-shadow:0 0 10px cyan; /* UBAH WARNA GLOW */
+">
+REKOMENDASIKAN WEB INI KEPADA KERABAT KALIAN <!-- UBAH TULISAN INI -->
+</h1>
